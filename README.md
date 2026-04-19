@@ -1,4 +1,4 @@
-# 🚀 DonorAI – Predictive Fundraising & Recommendation System
+# 🚀 FundTrack – Predictive Fundraising & Recommendation System
 
 An end-to-end AI system that predicts donor likelihood and generates actionable outreach strategies using Machine Learning and LLMs.
 
@@ -6,7 +6,7 @@ An end-to-end AI system that predicts donor likelihood and generates actionable 
 
 ## 🧠 Overview
 
-DonorAI is designed to help organizations identify potential donors and optimize outreach strategies.
+FundTrack is designed to help organizations identify potential donors and optimize outreach strategies.
 
 Instead of just predicting outcomes, the system:
 

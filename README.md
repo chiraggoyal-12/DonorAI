@@ -141,7 +141,7 @@ The system uses an LLM to:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/chiraggoyal-12/donor-ai.git
+git clone https://github.com/chiraggoyal-12/DonorAI.git
 cd donor-ai
 ```
 
@@ -185,7 +185,7 @@ uvicorn app.app:app --reload
 ### 6️⃣ Run Frontend (Streamlit)
 
 ```bash
-streamlit run ui/app.py
+streamlit run main.py
 ```
 
 ---
